@@ -5,8 +5,6 @@ I am a passionate programmer with extensive experience in the fields of programm
 While the majority of my projects are related to computer graphics and games, I push myself to branch out to many other fields and try new projects, languages and technologies constantly. I am always learning something new.
 
 ### Skills
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
  - C++, C#, Java
  - Unity3D & Unreal Engine 4
  - Blender
