@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+## Weston McNamara
 
-You can use the [editor on GitHub](https://github.com/wmcnamara/weston/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I am a passionate programmer with extensive experience in the fields of programming I enjoy. I am a versatile and quick learner. While the majority of my projects are related to computer graphics and games, I push myself to branch out to many other fields and try new projects, languages and technologies.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### Skills
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+ - C++, C#, Java
+ - Unity3D & Unreal Engine 4
+ - Blender
+ - Git (Desktop and Command Line)
+ - OpenGL & GLSL
+ - Visual Studio
 
-```markdown
-Syntax highlighted code block
+# Projects
 
-# Header 1
-## Header 2
-### Header 3
+## Crynn
+[Crynn](https://github.com/wmcnamara/crynn) is a fairly simple 3D game engine suitable for small games and simulations. It supports the Windows platform.
 
-- Bulleted
-- List
+### Features
+ - Fairly easy to use
+ - AABB collision detection
+ - Fast, event based input and rendering system.
+ - Immediate Mode GUI
+ 
+## Astronomy Picture of The Day Changer
+[APOD Changer](https://github.com/wmcnamara/apodchanger) automatically sets the users desktop background to the NASA Astronomy Picture of the Day and displays text explaining the image, along with a date and title.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wmcnamara/weston/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Features
+ - Written mainly in C# to handle the API request, displaying text and downloading the image.
+ - Utilizes PInvoke and C++ to access Windows customization functions for background changing.
+ - Fast and simple.
+ - Automatically updates to the new Astronomy Picture of the Day when the computer starts.
+ - Used by dozens of happy users.
