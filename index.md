@@ -11,7 +11,7 @@ While the majority of my projects are related to computer graphics and games, I 
  - Git (Desktop and Command Line)
  - OpenGL & GLSL
  - Visual Studio
-
+ - MS Office Suite
 # Projects
 
 ## Crynn
@@ -21,7 +21,7 @@ While the majority of my projects are related to computer graphics and games, I 
  - Fairly easy to use
  - AABB collision detection
  - Fast, event based input and rendering system.
- - Immediate Mode GUI
+ - Immediate Mode GUI support
  
 ## Astronomy Picture of The Day Changer
 [APOD Changer](https://github.com/wmcnamara/apodchanger) automatically sets the users desktop background to the NASA Astronomy Picture of the Day and displays text explaining the image, along with a date and title.
