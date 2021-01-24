@@ -2,7 +2,7 @@
 
 I am a passionate programmer with extensive experience in the fields of programming I practice. I am a versatile and quick learner and I pride myself on the quality of my work.
 
-While the majority of my projects are related to computer graphics and games, I push myself to branch out to many other fields and try new projects, languages and technologies constantly. I am always learning something new.
+While the majority of my projects are related to computer graphics and games, I constantly push myself to branch out to many other fields and try new projects, languages and technologies. I am always learning something new.
 
 ### Skills
  - C++, C#, Java
