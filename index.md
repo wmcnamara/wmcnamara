@@ -12,6 +12,7 @@ While the majority of my projects are related to computer graphics and games, I 
  - OpenGL & GLSL
  - Visual Studio
  - MS Office Suite
+ 
 # Projects
 
 ## Crynn
