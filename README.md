@@ -2,7 +2,7 @@
 
 ## Game & Graphics Programmer
 
-I'm a passionate and skilled game and graphics programmer with 4 years of extensive experience in game development and computer graphics.
+Hi! :wave: I'm Weston. I'm a passionate and skilled game and graphics programmer with 4 years of extensive experience in game development and computer graphics.
 
 ### Skills:
 [<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" />](https://www.cplusplus.com/)
