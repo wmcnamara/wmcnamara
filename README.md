@@ -13,7 +13,8 @@ Hi! :wave: I'm Weston. I'm a passionate and skilled developer with 4 years of ex
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://github.com/)
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]()
 [<img align="left" alt="Blender" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/1251px-Blender_logo_no_text.svg.png" />](https://www.blender.org/)
-
+[<img align="left" alt="OpenGL" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/opengl-1-logo-png-transparent.png" />](https://www.opengl.org//)
+[<img align="left" alt="UE4" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/unreal-engine-555438.png" />](https://www.unrealengine.com)
 <br />
 
 ---
