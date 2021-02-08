@@ -11,6 +11,7 @@ While the majority of my projects are related to computer graphics and games, I 
  - Git (Desktop and Command Line)
  - OpenGL & GLSL
  - Visual Studio
+ - GIMP & Photoshop
  - MS Office Suite
  
 # Projects
