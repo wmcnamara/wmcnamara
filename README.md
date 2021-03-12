@@ -31,7 +31,6 @@ Hi! :wave: I'm Weston. I'm a passionate and skilled developer with 4 years of ex
   - [SpeedCube](https://github.com/wmcnamara/speedcube), a popular hypercasual game designed for mobile and PC platforms. It is available on Itch.io, and the google play store. It has been downloaded and played by hundreds of people across the world. It is developed in Unity.
   - [Tapes N Shapes](https://github.com/wmcnamara/tapes-n-shapes), an interactive 3D puzzle game for the PC platform. It was a submission for the Brackeys 2020.1 Game Jam. Tapes N Shapes was developed in Unity, with C#.
  
-**My Itch.io game catalogue can be viewed [here.](https://westmac.itch.io/)**
 ---
  
  ### Github Statistics
