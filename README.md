@@ -30,9 +30,9 @@ Hi! :wave: I'm Weston. I'm a passionate and skilled developer with 4 years of ex
   - [APOD Changer](https://github.com/wmcnamara/apodchanger), a simple to use program that automatically downloads and updates the users background with the NASA Astronomy Picture of the Day. It is used by dozens every single day.
   - [SpeedCube](https://github.com/wmcnamara/speedcube), a popular hypercasual game designed for mobile and PC platforms. It is available on Itch.io, and the google play store. It has been downloaded and played by hundreds of people across the world. It is developed in Unity.
   - [Tapes N Shapes](https://github.com/wmcnamara/tapes-n-shapes), an interactive 3D puzzle game for the PC platform. It was a submission for the Brackeys 2020.1 Game Jam. Tapes N Shapes was developed in Unity, with C#.
-
+ 
+**My Itch.io game catalogue can be viewed [here.](https://westmac.itch.io/)**
 ---
- **My Itch.io game catalogue can be viewed [here.](https://westmac.itch.io/)**
  
  ### Github Statistics
  <img  alt="Westons github stats" src="https://github-readme-stats.vercel.app/api?username=wmcnamara&show_icons=true&hide_border=true" />
