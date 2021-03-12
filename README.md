@@ -17,6 +17,8 @@ Hi! :wave: I'm Weston. I'm a passionate and skilled developer with 4 years of ex
 [<img align="left" alt="UE4" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/unreal-engine-555438.png" />](https://www.unrealengine.com)
 [<img align="left" alt="GIMP" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/The_GIMP_icon_-_gnome.svg/1200px-The_GIMP_icon_-_gnome.svg.png" />](https://www.gimp.org/)
 <br />
+<br />
+
 ---
  ### Github Statistics
  <img  alt="Westons github stats" src="https://github-readme-stats.vercel.app/api?username=wmcnamara&show_icons=true&hide_border=true" />
