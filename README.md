@@ -23,8 +23,7 @@ Hi! :wave: I'm Weston. I'm a passionate and skilled developer with 4 years of ex
 - I am proficient in C++, C# and Java.
 - I have extensive experience in OpenGL & GLSL.
 - I am familiar with Vulkan and HLSL.
----
- 
+
  ## Notable Projects
   - [Crynn](https://github.com/wmcnamara/crynn), a fast, advanced 3D engine designed for games and simulations. It is developed in C++, and uses OpenGL to render graphics. I use it to develop some of the games I produce.
   - [APOD Changer](https://github.com/wmcnamara/apodchanger), a simple to use program that automatically downloads and updates the users background with the NASA Astronomy Picture of the Day. It is used by dozens every single day.
