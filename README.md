@@ -27,7 +27,7 @@ Hi! :wave: I'm Weston. I'm a passionate and skilled developer with 4 years of ex
  ## Notable Projects
   - [Crynn](https://github.com/wmcnamara/crynn), a fast, advanced 3D engine designed for games and simulations. It is developed in C++, and uses OpenGL to render graphics. I use it to develop some of the games I produce.
   - [APOD Changer](https://github.com/wmcnamara/apodchanger), a simple to use program that automatically downloads and sets the users desktop background to the  NASA Astronomy Picture of the Day. It is used by dozens every single day and is available on the Windows platform.
-  - [SpeedCube](https://github.com/wmcnamara/speedcube), a popular hypercasual game designed for mobile and PC platforms. It is available on Itch.io, and the google play store. It has been downloaded and played by hundreds of people across the world. It is developed in Unity.
+  - [SpeedCube](https://github.com/wmcnamara/speedcube), a popular hypercasual game designed for mobile and PC platforms. It is available on Itch.io, and the Google Play Store. It has been downloaded and played by hundreds of people across the world. It is developed in Unity.
   - [Tapes N Shapes](https://github.com/wmcnamara/tapes-n-shapes), an interactive 3D puzzle game for the PC platform. It was a submission for the Brackeys 2020.1 Game Jam. Tapes N Shapes was developed in Unity, with C#.
  
 ---
