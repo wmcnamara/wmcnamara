@@ -19,7 +19,7 @@ Hi! :wave: I'm Weston. I'm a passionate and skilled developer with 4 years of ex
 <br />
 <br />
 
-- I have 4 years of extensive experience in Unity and I have made projects on a variety of game engines including Godot, and UE4.
+- I have 4 years of extensive experience in The Unity Game Engine and I have made projects on a variety of game engines including Godot and UE4.
 - I am proficient in C++, C# and Java.
 - I have extensive experience in OpenGL & GLSL.
 - I am familiar with Vulkan and HLSL.
