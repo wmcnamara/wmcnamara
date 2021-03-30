@@ -33,7 +33,7 @@ Hi! :wave: I'm Weston. I'm a passionate and skilled developer with 4 years of ex
  
  ### Other Links
 - [ShaderToy Profile](https://www.shadertoy.com/user/warptarium)
-- [Itch IO Page](https://westmac.itch.io/)
+- [Itch.io Page](https://westmac.itch.io/)
 
  ### Github Statistics
  <img  alt="Westons github stats" src="https://github-readme-stats.vercel.app/api?username=wmcnamara&show_icons=true&hide_border=true" />
