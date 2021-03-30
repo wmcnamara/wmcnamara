@@ -31,7 +31,7 @@ Hi! :wave: I'm Weston. I'm a passionate and skilled developer with 4 years of ex
  
 ---
  
- #### Other Links
+ ### Other Links
 - [ShaderToy Profile](https://www.shadertoy.com/user/warptarium)
 - [Itch IO Page](https://westmac.itch.io/)
 
