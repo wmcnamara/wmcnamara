@@ -18,9 +18,8 @@ Hi! :wave: I'm Weston. I'm a passionate and skilled developer with 4 years of ex
 [<img align="left" alt="GIMP" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/The_GIMP_icon_-_gnome.svg/1200px-The_GIMP_icon_-_gnome.svg.png" />](https://www.gimp.org/)
 <br />
 <br />
-
-- I have 4 years of extensive experience in The Unity Game Engine and I have made projects on a variety of game engines including Godot and UE4.
-- I am proficient in C++, C# and am familiar with Java.
+- I have 4 years of extensive experience in the Unity Game Engine and I have made projects on a variety of game engines including Godot and UE4.
+- I am proficient in C++, C# and I am familiar with Java.
 - I have extensive experience in OpenGL & GLSL.
 - I am familiar with Vulkan and HLSL.
 
@@ -32,7 +31,11 @@ Hi! :wave: I'm Weston. I'm a passionate and skilled developer with 4 years of ex
  
 ---
  
+ #### Other Links
+- [ShaderToy Profile](https://www.shadertoy.com/user/warptarium)
+- [Itch IO Page](https://westmac.itch.io/)
+
  ### Github Statistics
  <img  alt="Westons github stats" src="https://github-readme-stats.vercel.app/api?username=wmcnamara&show_icons=true&hide_border=true" />
-
+ 
 # Check out my projects! :arrow_down::arrow_down:
