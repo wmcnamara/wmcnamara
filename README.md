@@ -19,6 +19,7 @@ Hi! :wave: I'm Weston. I'm a passionate and skilled developer with 4 years of ex
 <br />
 <br />
  
+ I make game and graphics applications. I prefer working in C++ but I am also proficient in C# and Java.
  ### Other Links
 - [My Website](https://www.wmcnamara.com/)
 - [ShaderToy Profile](https://www.shadertoy.com/user/warptarium)
