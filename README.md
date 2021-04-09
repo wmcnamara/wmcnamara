@@ -4,7 +4,7 @@
 
 Hi! :wave: I'm Weston. I'm a passionate and skilled developer with 4 years of extensive experience in game and graphics programming.
 
-## About Me:
+## Skills:
 [<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" />](https://www.cplusplus.com/)
 [<img align="left" alt="C#" width="26px" src="https://johobase.com/jb/wp-content/uploads/csharp-logo-hexagon-300.png" />](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [<img align="left" alt="OpenGL" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/opengl-1-logo-png-transparent.png" />](https://www.opengl.org//)
@@ -18,12 +18,9 @@ Hi! :wave: I'm Weston. I'm a passionate and skilled developer with 4 years of ex
 [<img align="left" alt="GIMP" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/The_GIMP_icon_-_gnome.svg/1200px-The_GIMP_icon_-_gnome.svg.png" />](https://www.gimp.org/)
 <br />
 <br />
-- I have 4 years of extensive experience in the Unity Game Engine and I have made projects on a variety of game engines including Godot and UE4.
-- I am proficient in C++, C# and I am familiar with Java.
-- I have extensive experience in OpenGL & GLSL.
-- I am familiar with Vulkan and HLSL.
  
  ### Other Links
+- [My Website](https://www.wmcnamara.com/)
 - [ShaderToy Profile](https://www.shadertoy.com/user/warptarium)
 - [Itch.io Page](https://westmac.itch.io/)
 
