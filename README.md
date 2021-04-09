@@ -16,10 +16,8 @@ Hi! :wave: I'm Weston. I'm a passionate and skilled developer with 4 years of ex
 [<img align="left" alt="Blender" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/1251px-Blender_logo_no_text.svg.png" />](https://www.blender.org/)
 [<img align="left" alt="UE4" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/unreal-engine-555438.png" />](https://www.unrealengine.com)
 [<img align="left" alt="GIMP" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/The_GIMP_icon_-_gnome.svg/1200px-The_GIMP_icon_-_gnome.svg.png" />](https://www.gimp.org/)
-<br />
-<br />
+<br /> 
  
- I make game and graphics applications. I prefer working in C++ but I am also proficient in C# and Java.
  ### Other Links
 - [My Website](https://www.wmcnamara.com/)
 - [ShaderToy Profile](https://www.shadertoy.com/user/warptarium)
