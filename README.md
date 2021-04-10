@@ -26,6 +26,8 @@ Hi! :wave: I'm Weston. I'm a passionate and skilled developer with 4 years of ex
 ---
 
  ### Github Statistics
- <img  alt="Westons github stats" src="https://github-readme-stats.vercel.app/api?username=wmcnamara&show_icons=true&hide_border=true" />
- 
+ <p align="center">
+<img align="left" height="150px" alt="Westons github stats" src="https://github-readme-stats.vercel.app/api?username=wmcnamara&hide_border=true&show_icons=true&include_all_commits=false&count_private=true&line_height=24&text_color=ffffff&icon_color=ffffff&bg_color=0,fd1d1d,e1306c,c13584,833ab4&title_color=ffffff"/> <img height="150px"/>
+</p>
+
 # Check out my projects! :arrow_down::arrow_down:
