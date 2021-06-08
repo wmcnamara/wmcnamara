@@ -20,7 +20,7 @@ Hi! :wave: I'm Weston. I'm a passionate and skilled developer with 4 years of ex
  
  ### Other Links
 - [My Website](https://www.wmcnamara.com/)
-- [ShaderToy Profile](https://www.shadertoy.com/user/warptarium)
+- [LinkedIn](https://www.linkedin.com/in/wmcnamara-in/)
 - [Itch.io Page](https://westmac.itch.io/)
 
 # Check out my projects! :arrow_down::arrow_down:
