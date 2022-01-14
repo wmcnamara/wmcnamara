@@ -18,7 +18,7 @@ Hi! :wave: I'm Weston. I'm a passionate and skilled developer with 4 years of ex
 [<img align="left" alt="GIMP" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/The_GIMP_icon_-_gnome.svg/1200px-The_GIMP_icon_-_gnome.svg.png" />](https://www.gimp.org/)
 <br /> 
  
- I've worked with Python, Rust, Javascript, Lua, C, GLSL, HLSL, and a few more.
+ I've also worked with Python, Rust, Javascript, Lua, C, GLSL, HLSL, and a few more.
  
  ### Other Links
 - [My Website](https://www.wmcnamara.com/)
