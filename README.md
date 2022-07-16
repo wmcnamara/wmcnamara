@@ -1,7 +1,5 @@
 # Weston McNamara
 
-## Game & Graphics Programmer
-
 Hi! :wave: I'm Weston. I'm a passionate and skilled developer with 4 years of extensive experience in game and graphics programming.
 
 ## Skills:
