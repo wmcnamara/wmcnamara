@@ -1,6 +1,8 @@
 # Weston McNamara
 
-Hi! :wave: I'm Weston. I'm a passionate and skilled developer with 4 years of extensive experience in game and graphics programming.
+Hi! :wave: I'm Weston. I'm a passionate and skilled developer with 4 years of extensive experience in game and graphics programming. 
+
+I'm currently working as a Generalist Programmer at Ubisoft Montréal.
 
 ## Skills:
 [<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" />](https://www.cplusplus.com/)
