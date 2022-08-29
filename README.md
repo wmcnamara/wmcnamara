@@ -2,8 +2,6 @@
 
 Hi! :wave: I'm Weston. I'm a passionate and skilled developer with 4 years of extensive experience in game and graphics programming. 
 
-I'm currently working as a Generalist Programmer at Ubisoft Montréal.
-
 ## Skills:
 [<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" />](https://www.cplusplus.com/)
 [<img align="left" alt="C#" width="26px" src="https://johobase.com/jb/wp-content/uploads/csharp-logo-hexagon-300.png" />](https://docs.microsoft.com/en-us/dotnet/csharp/)
