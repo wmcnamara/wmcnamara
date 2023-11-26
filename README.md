@@ -1,6 +1,6 @@
 # Weston McNamara
 
-Hi! :wave: I'm Weston. I'm a passionate and skilled developer with 5 years of extensive experience in game and graphics programming. 
+Hi! :wave: I'm Weston. I'm a passionate and skilled developer with extensive experience in game and graphics programming. 
 
 ## Skills:
 [<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" />](https://www.cplusplus.com/)
